@@ -1,5 +1,7 @@
 ## ***CAROUSEL WITH BOOTSTRAP 5***
 
+![Alt text](image.png)
+
 ~~~
 .carousel = it provides the CSS ruleset for the carousel layout
 .carousel-indicators = adds the bar icons for the navigation 
